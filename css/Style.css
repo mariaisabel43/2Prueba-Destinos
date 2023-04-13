@@ -1,0 +1,9 @@
+﻿body {
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url(https://2.bp.blogspot.com/-CzM17u5h7xI/XE1Gos-oqdI/AAAAAAAAAsA/4g3yg7gcWFowhTdnuXdigv2ZhbE9QCT4ACK4BGAYYCw/s1600/maxresdefault.jpg);
+}
+img {
+    width: 550px;
+    height: 470px;
+}
